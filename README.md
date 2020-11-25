@@ -1,4 +1,4 @@
-#A walmart shopping bot using selenium
+# A walmart shopping bot using selenium
 You need python and pip installed
 
 pip install -r requirements.txt #Install dependencies
