@@ -27,8 +27,6 @@ zip_code = ""
 
 #cc_number = ""
 #cvv = ""
-#exp_month = ""
-#exp_yr = ""
 
 
 search_query = "knex"
