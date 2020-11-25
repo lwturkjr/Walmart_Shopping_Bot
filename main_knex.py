@@ -52,7 +52,6 @@ as_guest = browser.find_element_by_xpath('//span[text()="Continue without accoun
 as_guest.click()
 
 sleep(1.5)
-#cont = browser.find_elements_by_class_name("button-wrapper")
 cont = browser.find_element_by_xpath('//span[text()="Continue"]')
 cont.click()
 
